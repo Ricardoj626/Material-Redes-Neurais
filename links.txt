@@ -1,0 +1,13 @@
+https://medium.com/@ageitgey
+
+https://medium.com/@josenildo_silva
+
+https://medium.com/@dehhmesquita/classificando-textos-com-redes-neurais-e-tensorflow-5063784a1b31
+
+http://scikit-learn.org/stable/
+
+https://github.com/edielsonpf/genetic-algorithm
+
+https://github.com/edielsonpf/neural-networks-examples    <- Esse é a base para a rede que está sendo treinada para a empresa
+
+https://github.com/edielsonpf/particle-swarm-optimization
